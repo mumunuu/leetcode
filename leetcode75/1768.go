@@ -1,6 +1,6 @@
 package leetcode75
 
-func MergeAlternately(word1 string, word2 string) string {
+func mergeAlternately(word1 string, word2 string) string {
 
 	answer := ""
 	lastIndex := 0

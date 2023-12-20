@@ -2,7 +2,7 @@ package leetcode75
 
 import "strings"
 
-func GcdOfStrings(str1 string, str2 string) string {
+func gcdOfStrings(str1 string, str2 string) string {
 
 	if len(str1) == len(str2) {
 		if strings.EqualFold(str1, str2) {
