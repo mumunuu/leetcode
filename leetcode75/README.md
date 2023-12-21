@@ -13,4 +13,8 @@
 # ❌ MEDIUM 443: String Compression
 # 👌 EASY 283: Move Zeros 27.70/89.12
 # 👌 EASY 392: Is Subsequence 100/23.82
+# 👌 MEDIUM 1679: Max Number of K-Sum Pairs 100/23.82 5.22%/80.60
+    - 런타임이 오래걸려서 다른 코드를 보니 map으로 처리함
+# 👌 EASY 643: Maximum Average Subarray I 18.42/80.78
+# 👌 MEDIUM 1456: Maximum Number of Vowels in a Substring of Given Length 5.45/5.97
 
