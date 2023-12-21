@@ -12,3 +12,5 @@
 # 👌 MEDIUM 334: Increasing Triplet Subsequence
 # ❌ MEDIUM 443: String Compression
 # 👌 EASY 283: Move Zeros 27.70/89.12
+# 👌 EASY 392: Is Subsequence 100/23.82
+
