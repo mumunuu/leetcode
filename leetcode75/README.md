@@ -8,3 +8,7 @@
 # 👌 MEDIUM 151: Reverse Words in a String 72.08/53.34
     - fields라는 좋은 함수를 이용하자
     - 거꾸로 리버스 sort 하는 함수를 자체 구현해서 사용하자
+# ❌ MEDIUM 238: Product of Array Except Self
+# 👌 MEDIUM 334: Increasing Triplet Subsequence
+# ❌ MEDIUM 443: String Compression
+# 👌 EASY 283: Move Zeros 27.70/89.12
