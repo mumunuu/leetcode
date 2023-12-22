@@ -19,5 +19,7 @@
 # 👌 MEDIUM 1456: Maximum Number of Vowels in a Substring of Given Length 5.45/5.97
 # 👌 MEDIUM 2390: Removing Stars From a String 89.39/96.29
     - 스택에 담으면서 *을 만나면 담았던 애들을 빼고, 아니면 넣으면서 지나감
+# 👌 MEDIUM 735: Asteroid Collision 92.38/89.94
+    - 케이스를 좀 더 집중해서 파악하자
 
 
