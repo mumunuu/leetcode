@@ -17,4 +17,7 @@
     - 런타임이 오래걸려서 다른 코드를 보니 map으로 처리함
 # 👌 EASY 643: Maximum Average Subarray I 18.42/80.78
 # 👌 MEDIUM 1456: Maximum Number of Vowels in a Substring of Given Length 5.45/5.97
+# 👌 MEDIUM 2390: Removing Stars From a String 89.39/96.29
+    - 스택에 담으면서 *을 만나면 담았던 애들을 빼고, 아니면 넣으면서 지나감
+
 
