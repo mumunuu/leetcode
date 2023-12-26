@@ -28,6 +28,11 @@
 # 👌 EASY 724: Find Pivot Index 58.48/6.57
 # 👌 EASY 2215: Find the Difference of Two Arrays 27.27/32.93
     - 입력값이 그다지 길지 않다면 직접 배열을 생성하고 풀자
+# 👌 EASY 1207: Unique Number of Occurrences 75.86/89.20
+    - map에서 중복된 요소를 찾는 코드
+# 👌 MEDIUM 2352: Equal Row and Column Pairs 8.71/13.55
+    - 
+
 
 
 
