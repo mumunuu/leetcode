@@ -21,5 +21,13 @@
     - 스택에 담으면서 *을 만나면 담았던 애들을 빼고, 아니면 넣으면서 지나감
 # 👌 MEDIUM 735: Asteroid Collision 92.38/89.94
     - 케이스를 좀 더 집중해서 파악하자
+# ❌ MEDIUM 1004: Max Consecutive Ones III
+    - 시간 초과
+# ❌ MEDIUM 1493: Longest Subarray of 1's After Deleting One Element
+# 👌 EASY 1732: Find the Highest Altitude 67.52/77.75
+# 👌 EASY 724: Find Pivot Index 58.48/6.57
+# 👌 EASY 2215: Find the Difference of Two Arrays 27.27/32.93
+    - 입력값이 그다지 길지 않다면 직접 배열을 생성하고 풀자
+
 
 
