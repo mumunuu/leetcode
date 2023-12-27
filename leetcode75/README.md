@@ -31,7 +31,10 @@
 # 👌 EASY 1207: Unique Number of Occurrences 75.86/89.20
     - map에서 중복된 요소를 찾는 코드
 # 👌 MEDIUM 2352: Equal Row and Column Pairs 8.71/13.55
-    - 
+# 👌 MEDIUM 2095: Delete the Middle Node of a Linked List 41.35/84.59
+    - 더미 헤드를 적용하는 법, Next.Next로 처리하는 법
+# ❌ MEDIUM 328: Odd Even Linked List
+# 👌 Binary Search Tree | EASY 700: Search in a Binary Search Tree 93.29/46.28
 
 
 
