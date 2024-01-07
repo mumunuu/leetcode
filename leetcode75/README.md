@@ -37,6 +37,7 @@
 # 👌 Binary Search Tree | EASY 700: Search in a Binary Search Tree 93.29/46.28
 # 👌 Bit Manipulation | EASY 338: Counting Bits 5.62/24.08
 # 👌 Bit Manipulation | EASY 136: Single Number 33.90/5.13
+# 👌 Bit Manipulation | MEDIUM 1318: Minimum Flips to Make a OR b Equal to c 78.48/45.57
 
 
 
